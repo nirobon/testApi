@@ -1,16 +1,14 @@
-
-    {
-        "u_id": "1",
-        "u_firstname": "nirobon",
-        "u_lastname": "saeku",
-        "u_phonenumber": 0,
-        "u_email": "nirobon_saeku@hotmail.com",
-        "u_country": "Thailand",
-        "u_password": "1234",
-        "u_recievenotification": "true",
-        "u_gender": "female",
-        "u_address": [
-            "state"
-        ],
-        "id": "5a9cbbffbd78ab79c050dab2"
-    }
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
