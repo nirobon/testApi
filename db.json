@@ -11,4 +11,21 @@
   "profile": {
     "name": "typicode"
   }
+ "user" : [
+    {
+        "u_id": "1",
+        "u_firstname": "nirobon",
+        "u_lastname": "saeku",
+        "u_phonenumber": 0,
+        "u_email": "nirobon_saeku@hotmail.com",
+        "u_country": "Thailand",
+        "u_password": "1234",
+        "u_recievenotification": "true",
+        "u_gender": "female",
+        "u_address": [
+            "state"
+        ],
+        "id": "5a9cbbffbd78ab79c050dab2"
+    }
+]
 }
