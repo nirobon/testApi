@@ -11,7 +11,7 @@
   "profile": {
     "name": "typicode"
   },
- "user": [
+ "user": 
     {
         "u_id": "1",
         "u_firstname": "nirobon",
@@ -27,5 +27,5 @@
         ],
         "id": "5a9cbbffbd78ab79c050dab2"
     }
-]
+
 }
