@@ -26,6 +26,14 @@
             "state"
         ],
         "id": "5a9cbbffbd78ab79c050dab2"
-    }
+    },
+  "mydeal":[
+     { "id": 1, "dealname": "11", "description": "jhdjkfhkjdsh" ,"condition" : "yruehjhrke", "rating" : 4.7 ,"review" : 454 },
+     { "id": 2, "dealname": "22", "description": "jhdjkfhkjdsh" ,"condition" : "yruehjhrke", "rating" : 4.7 ,"review" : 454 },
+     { "id": 3, "dealname": "33", "description": "jhdjkfhkjdsh" ,"condition" : "yruehjhrke", "rating" : 4.7 ,"review" : 454 },
+     { "id": 4, "dealname": "44", "description": "jhdjkfhkjdsh" ,"condition" : "yruehjhrke", "rating" : 4.7 ,"review" : 454 },
+     { "id": 5, "dealname": "55", "description": "jhdjkfhkjdsh" ,"condition" : "yruehjhrke", "rating" : 4.7 ,"review" : 454 },
+  ]
+  
 
 }
